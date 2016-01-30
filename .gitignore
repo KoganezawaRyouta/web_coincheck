@@ -4,4 +4,4 @@
 pkg/*
 bin/*
 vendor/*
-!/vendor/manifest
+!vendor/manifest
